@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_014",
+  "source": "openabm_sample_outputs/seed_1/samples_asymptomatic_2of3",
+  "source_sample_name": "company_n3000_sample14_maxpos5pct_work",
+  "copied_without_symptom_normalization": true,
+  "population_file": "population.csv",
+  "contacts_file": "contacts.csv",
+  "total_n": 3000,
+  "positive_count": 54,
+  "symptomatic_positive_count": 22,
+  "asymptomatic_positive_count": 32,
+  "symptomatic_positive_rate": 0.4074074074074074,
+  "asymptomatic_positive_rate": 0.5925925925925926,
+  "note": "Existing generated sample copied as-is. Reported symptom columns were not normalized or overwritten."
+}
